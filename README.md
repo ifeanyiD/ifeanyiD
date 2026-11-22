@@ -88,7 +88,7 @@ I'm interested in opportunities where I can contribute as a Software Engineer / 
 
 ## 📫 Connect With Me
 
-* Portfolio: https://code-voltage.netlify.app/
+* Portfolio: https://codolt.netlify.app/
 * GitHub: https://github.com/ifeanyiD
 
 ---
