@@ -15,6 +15,7 @@ I'm also exploring machine learning in JavaScript, with a focus on understanding
 ### Frontend
 
 * JavaScript (ES6+)
+* Typescript
 * React.js
 * HTML5
 * CSS3 / SCSS
@@ -23,6 +24,7 @@ I'm also exploring machine learning in JavaScript, with a focus on understanding
 ### Backend
 
 * Node.js
+* Typescript
 * Express.js
 * REST APIs
 * Authentication & Authorization
